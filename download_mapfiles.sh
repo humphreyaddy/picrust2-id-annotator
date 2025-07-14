@@ -3,7 +3,7 @@
 mkdir -p mapfiles
 cd mapfiles
 
-BASE_URL="https://raw.githubusercontent.com/picrust/picrust2/master/picrust2/default_files/description_mapfiles"
+BASE_URL="https://github.com/picrust/picrust2/tree/master/picrust2/default_files/description_mapfiles"
 
 wget "$BASE_URL/ko_name.txt.gz"
 wget "$BASE_URL/ec_name.txt.gz"
