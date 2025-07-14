@@ -19,4 +19,4 @@ wget "$BASE_URL/map_go_name.txt.gz"
 wget "$BASE_URL/ec_level4_info.tsv.gz"
 wget "$BASE_URL/metacyc_pathways_info.txt.gz"
 
-echo "✅ Mapfiles downloaded to $(pwd)"
+echo "Mapfiles downloaded to $(pwd)"
